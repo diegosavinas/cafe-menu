@@ -1,6 +1,6 @@
 # Café Menu
 
-Este es un proyecto simple que muestra un menú de café en formato HTML. Incluye una página web que enumera diferentes tipos de café y postres, junto con sus precios.
+Este es un proyecto simple que muestra un menú de café en formato HTML y CSS. Incluye una página web que enumera diferentes tipos de café y postres, junto con sus precios.
 
 ## Uso
 
